@@ -1,0 +1,7 @@
+com\arconix\ChatApp\controller\ChatController.class
+com\arconix\ChatApp\controller\MessageType.class
+com\arconix\ChatApp\config\WebSocketConfiguration.class
+com\arconix\ChatApp\controller\ChatMessage$ChatMessageBuilder.class
+com\arconix\ChatApp\config\WebSocketEventListener.class
+com\arconix\ChatApp\ChatAppApplication.class
+com\arconix\ChatApp\controller\ChatMessage.class
