@@ -1,0 +1,29 @@
+WebSocket :- It is a communication protocol that allows full duplex connection over A SINGLE TCP. It is designed to be used for communication between server and client.
+
+
+Advantages
+1) Real time data transfer
+2) Bi directional
+3) Efficient
+4) Low payload
+5) Persistent connection
+
+Use cases
+1) Chat Apps
+2) Real time gaming
+3) Streaming Apps
+4) Live updates
+5) IoT 
+
+
+		websocket connection
+
+                   request
+	 ------------------------------------>  
+
+		handshake
+client   <------------------------------------
+						server
+		
+		websocket
+	<------------------------------------->
